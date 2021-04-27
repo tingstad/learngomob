@@ -17,7 +17,7 @@ func main() {
 
 	//	log.Fatal(http.ListenAndServe(":8080", nil))
 	http.ListenAndServe(":8080", nil)
-
+	// salsap siteconfig: curl -X GET http://services.snap0.api.no/api/config/sites/salsap -H 'Accept: application/json'
 	// ben sier:
 	//  - GET
 	//  - POST
