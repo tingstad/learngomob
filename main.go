@@ -24,4 +24,18 @@ func main() {
 	//
 	//  - perhaps when you post we call, send back data from external service
 	//  (like siteconfig). Something JSON?
+
 }
+
+// retro etter mobbing runde 1.
+//
+// folk:
+//
+//  1. Vi lærte litt
+//  2. Gikk sakte, kanskje fint
+//  3. Fire minutter var korte iterasjoner
+//  4. Vi tror dette er en effektiv måte å lære Go på
+//
+// ben:
+//
+//  1. Hva med eksisterende kode? Hva finnes? Konsistens.
