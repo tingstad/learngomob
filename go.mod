@@ -1,3 +1,3 @@
-module github.com/tingstad/leangomod
+module github.com/tingstad/learnmod
 
 go 1.16
